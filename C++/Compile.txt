@@ -1,0 +1,1 @@
+g++ main.cpp oop.cpp Aquarium.cpp Entity.cpp Fish.cpp Guppy.cpp Snail.cpp Coins.cpp -Wall -O2 -lmingw32 -lSDL2main -lSDL2_image -lSDL2_ttf -lSDL2 -o oopquarium
